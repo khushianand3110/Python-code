@@ -8,11 +8,11 @@
 # Goal: The output should show which languages each person knows: {"Alice": ["Python"], "Bob":
 # ["Python", "Java"], "Charlie": ["Java"]}.
 
-a={"Python": ["Alice", "Bob"], "Java": ["Bob", "Charlie"]}
+org={"Python": ["Alice", "Bob"], "Java": ["Bob", "Charlie"]}
 result={}
-for i in a:
-    for j in a[i]:
-        if j not in result:
-            result[j]=[]
-        result[j].append(i)
+for a in org:
+    for b in org[a]:
+        if b not in result:
+            result[b]=[]
+        result[b].append(a)
 print(result)
