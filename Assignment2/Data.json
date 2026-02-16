@@ -1,0 +1,24 @@
+[
+{
+"policy_id": "SEC001",
+"name": "Password Policy",
+"enabled": true,
+"min_length": 8,
+"max_attempts": 5
+},
+{
+"policy_id": "SEC002",
+"name": "",
+
+"enabled": true,
+"min_length": 4,
+"max_attempts": -1
+},
+{
+"policy_id": "SEC001",
+"name": "Duplicate Policy",
+"enabled": "yes",
+"min_length": 10,
+"max_attempts": 3
+}
+]
