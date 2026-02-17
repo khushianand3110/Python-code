@@ -14,3 +14,84 @@
 2026-02-16 16:31:20,036 - root - INFO - Enabled check detected
 2026-02-16 16:31:20,036 - root - INFO - Minimum validation detected
 2026-02-16 16:31:20,036 - root - INFO - Maximum validation detected
+2026-02-17 21:27:40,515 - root - INFO - Policies loaded successfully
+2026-02-17 21:27:40,516 - root - INFO - Duplicate detection detected
+2026-02-17 21:27:40,516 - root - INFO - Name validation detected
+2026-02-17 21:27:40,516 - root - INFO - Enabled check detected
+2026-02-17 21:27:40,516 - root - INFO - Minimum validation detected
+2026-02-17 21:27:40,516 - root - INFO - Maximum validation detected
+2026-02-17 21:32:41,349 - root - INFO - Policies loaded successfully
+2026-02-17 21:32:41,349 - root - INFO - Duplicate detection detected
+2026-02-17 21:32:41,349 - root - INFO - Name validation detected
+2026-02-17 21:32:41,350 - root - INFO - Enabled check detected
+2026-02-17 21:32:41,350 - root - INFO - Minimum validation detected
+2026-02-17 21:32:41,350 - root - INFO - Maximum validation detected
+2026-02-17 21:32:41,350 - root - INFO - Duplicate detection detected
+2026-02-17 21:32:41,350 - root - INFO - Name validation detected
+2026-02-17 21:32:41,351 - root - INFO - Enabled check detected
+2026-02-17 21:32:41,351 - root - INFO - Minimum validation detected
+2026-02-17 21:32:41,351 - root - INFO - Maximum validation detected
+2026-02-17 21:32:41,351 - root - INFO - Duplicate detection detected
+2026-02-17 21:32:41,351 - root - INFO - Name validation detected
+2026-02-17 21:32:41,351 - root - INFO - Enabled check detected
+2026-02-17 21:32:41,352 - root - INFO - Minimum validation detected
+2026-02-17 21:32:41,352 - root - INFO - Maximum validation detected
+2026-02-17 21:32:41,352 - root - INFO - Validation completed
+2026-02-17 21:32:41,352 - root - INFO - Total policies: 2
+2026-02-17 21:32:41,352 - root - INFO - Valid policies (0): None
+2026-02-17 21:32:41,352 - root - INFO - Invalid policies (2): SEC001, SEC002
+2026-02-17 21:32:41,353 - root - INFO - SEC001 : Duplicate policy_id
+2026-02-17 21:32:41,353 - root - INFO - SEC001 : Enabled is not boolean
+2026-02-17 21:32:41,353 - root - INFO - SEC002 : Name is empty
+2026-02-17 21:32:41,353 - root - INFO - SEC002 : min_length < 6
+2026-02-17 21:32:41,353 - root - INFO - SEC002 : max_attempts <= 0
+2026-02-17 21:33:21,320 - root - INFO - Policies loaded successfully
+2026-02-17 21:33:21,320 - root - INFO - Duplicate detection detected
+2026-02-17 21:33:21,321 - root - INFO - Name validation detected
+2026-02-17 21:33:21,321 - root - INFO - Enabled check detected
+2026-02-17 21:33:21,321 - root - INFO - Minimum validation detected
+2026-02-17 21:33:21,321 - root - INFO - Maximum validation detected
+2026-02-17 21:33:21,321 - root - INFO - Duplicate detection detected
+2026-02-17 21:33:21,321 - root - INFO - Name validation detected
+2026-02-17 21:33:21,321 - root - INFO - Enabled check detected
+2026-02-17 21:33:21,321 - root - INFO - Minimum validation detected
+2026-02-17 21:33:21,322 - root - INFO - Maximum validation detected
+2026-02-17 21:33:21,322 - root - INFO - Duplicate detection detected
+2026-02-17 21:33:21,322 - root - INFO - Name validation detected
+2026-02-17 21:33:21,322 - root - INFO - Enabled check detected
+2026-02-17 21:33:21,322 - root - INFO - Minimum validation detected
+2026-02-17 21:33:21,322 - root - INFO - Maximum validation detected
+2026-02-17 21:33:21,322 - root - INFO - Validation completed
+2026-02-17 21:33:21,322 - root - INFO - Total policies: 2
+2026-02-17 21:33:21,323 - root - INFO - Valid policies (0): None
+2026-02-17 21:33:21,323 - root - INFO - Invalid policies (2): SEC001, SEC002
+2026-02-17 21:33:21,323 - root - INFO - SEC001 : Duplicate policy_id
+2026-02-17 21:33:21,323 - root - INFO - SEC001 : Enabled is not boolean
+2026-02-17 21:33:21,323 - root - INFO - SEC002 : Name is empty
+2026-02-17 21:33:21,323 - root - INFO - SEC002 : min_length < 6
+2026-02-17 21:33:21,323 - root - INFO - SEC002 : max_attempts <= 0
+2026-02-17 21:47:49,850 - root - INFO - Policies loaded successfully
+2026-02-17 21:47:49,851 - root - INFO - Duplicate detection detected
+2026-02-17 21:47:49,851 - root - INFO - Name validation detected
+2026-02-17 21:47:49,851 - root - INFO - Enabled check detected
+2026-02-17 21:47:49,851 - root - INFO - Minimum validation detected
+2026-02-17 21:47:49,851 - root - INFO - Maximum validation detected
+2026-02-17 21:47:49,851 - root - INFO - Duplicate detection detected
+2026-02-17 21:47:49,852 - root - INFO - Name validation detected
+2026-02-17 21:47:49,852 - root - INFO - Enabled check detected
+2026-02-17 21:47:49,852 - root - INFO - Minimum validation detected
+2026-02-17 21:47:49,852 - root - INFO - Maximum validation detected
+2026-02-17 21:47:49,852 - root - INFO - Duplicate detection detected
+2026-02-17 21:47:49,852 - root - INFO - Name validation detected
+2026-02-17 21:47:49,852 - root - INFO - Enabled check detected
+2026-02-17 21:47:49,852 - root - INFO - Minimum validation detected
+2026-02-17 21:47:49,852 - root - INFO - Maximum validation detected
+2026-02-17 21:47:49,852 - root - INFO - Validation completed
+2026-02-17 21:47:49,853 - root - INFO - Total policies: 2
+2026-02-17 21:47:49,853 - root - INFO - Valid policies (0): None
+2026-02-17 21:47:49,853 - root - INFO - Invalid policies (2): SEC001, SEC002
+2026-02-17 21:47:49,853 - root - INFO - SEC001 : Duplicate policy_id
+2026-02-17 21:47:49,853 - root - INFO - SEC001 : Enabled is not boolean
+2026-02-17 21:47:49,853 - root - INFO - SEC002 : Name is empty
+2026-02-17 21:47:49,853 - root - INFO - SEC002 : min_length < 6
+2026-02-17 21:47:49,854 - root - INFO - SEC002 : max_attempts <= 0
